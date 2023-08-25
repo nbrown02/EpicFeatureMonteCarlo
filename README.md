@@ -22,17 +22,18 @@ Use this when trying to understand what Epics/Features you are likely to deliver
 * Open the relevant .pbit file in Power BI Desktop
 * For Jira:
   - Add your Jira URL
-  - Add your Jira Project Key(s)
+  - Add your Jira Project Key
 * For Azure DevOps:
   - Select http/https (only choose http if your Azure DevOps Server is HTTP)
   - Add the Analytics / Azure DevOps Server URL - for Azure DevOps services enter 'analytics.dev.azure.com' / for Azure DevOps Server enter your server details
-  - Add your organization / project name / team name
+  - Add your Organization / Project / Team Name
 
 * It should then look something like this (for Jira):
-![alt text](https://raw.githubusercontent.com/nbrown02/Flow-Metrics-Epics-Features/main/Screenshots/1%20-%20Jira.jpg)
+![image](https://github.com/nbrown02/EpicFeatureMonteCarlo/assets/29369962/0e45b3f1-f5cb-4f9b-aa8e-1fd13fc7e860)
+
 
 * Or this (for Azure DevOps):
-![alt text](https://raw.githubusercontent.com/nbrown02/Flow-Metrics-Epics-Features/main/Screenshots/1%20-%20ADO.jpg)
+![image](https://github.com/nbrown02/EpicFeatureMonteCarlo/assets/29369962/4418579e-ced1-4065-8e7a-6561d77f540d)
 
 * Hit 'Load' 
 * You will be prompted for a login
@@ -52,7 +53,6 @@ Use this when trying to understand what Epics/Features you are likely to deliver
 ### Screenshots
 
 ![alt text](https://raw.githubusercontent.com/nbrown02/EpicFeatureMonteCarlo/main/FMC4.gif)
-
 
 ### Feedback
 This template is built and maintained by [Nicolas Brown](https://www.nicolasbrown.co.uk/) use [the issues section]((https://github.com/nbrown02/EpicFeatureMonteCarlo/issues)) for any bugs you find and [the discussion section](https://github.com/nbrown02/Flow-Metrics-Epics-Features/discussions) for any question, ideas and/or feature requests.
