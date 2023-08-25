@@ -51,7 +51,7 @@ Use this when trying to understand what Epics/Features you are likely to deliver
 
 ### Screenshots
 
-![alt text](https://raw.githubusercontent.com/nbrown02/EpicFeatureMonteCarlo/main/fmc4.gif)
+![alt text](https://raw.githubusercontent.com/nbrown02/EpicFeatureMonteCarlo/main/FMC4.gif)
 
 
 ### Feedback
