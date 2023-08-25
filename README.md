@@ -12,8 +12,8 @@ Use this when trying to understand what Epics/Features you are likely to deliver
 ### Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
 * Download the appropriate template file:
-  - [Jira version](https://github.com/nbrown02/Flow-Metrics-Epics-Features/raw/main/Flow%20Metrics%20for%20Epics%20and%20Features%20(Jira).pbit)
-  - [Azure DevOps version](https://github.com/nbrown02/Flow-Metrics-Epics-Features/raw/main/Flow%20Metrics%20for%20Epics%20and%20Features%20(Azure%20DevOps).pbit)
+  - [Jira version](https://github.com/nbrown02/EpicFeatureMonteCarlo/raw/main/Epic%20Monte%20Carlo%20(Jira).pbit)
+  - [Azure DevOps version](https://github.com/nbrown02/EpicFeatureMonteCarlo/raw/main/Feature%20Monte%20Carlo%20(ADO).pbit)
 * If you are setting this up for Jira then [follow these steps](https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/) to setup a Jira API token and note it down (e.g. copy/paste into Notepad)
 * If you are setting this up for Azure DevOps then [follow these steps](https://learn.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows#create-a-pat) to setup a Personal Access Token (PAT) with full access and note it down (e.g. copy/paste into Notepad)
 * Then you're good to get started!
