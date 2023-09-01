@@ -55,4 +55,4 @@ Use this when trying to understand what Epics/Features you are likely to deliver
 ![alt text](https://raw.githubusercontent.com/nbrown02/EpicFeatureMonteCarlo/main/FMC4.gif)
 
 ### Feedback
-This template is built and maintained by [Nicolas Brown](https://www.nicolasbrown.co.uk/) use [the issues section]((https://github.com/nbrown02/EpicFeatureMonteCarlo/issues)) for any bugs you find and [the discussion section](https://github.com/nbrown02/EpicFeatureMonteCarlo/discussions) for any question, ideas and/or feature requests.
+This template is built and maintained by [Nicolas Brown](https://www.nicolasbrown.co.uk/) use [the issues section](https://github.com/nbrown02/EpicFeatureMonteCarlo/issues) for any bugs you find and [the discussion section](https://github.com/nbrown02/EpicFeatureMonteCarlo/discussions) for any question, ideas and/or feature requests.
